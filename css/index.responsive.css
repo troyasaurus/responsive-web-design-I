@@ -57,8 +57,7 @@ table {
 
 html, body {
     height: 100%;
-	font-family: 'Titillium Web', sans-serif;
-	margin: 2% 10%;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
@@ -71,10 +70,7 @@ h1, h2, h3, h4, h5 {
 
 
 
-body{
 
-	margin: 10% 20% 10%;
-}
 header{
 	display:flex;
 	flex-flow: row wrap;
@@ -137,7 +133,6 @@ h1{
 .middle-img{
 	display: flex;
 	align-content: center;
-	width: 100%;
 }
 
 .more-info{
@@ -172,31 +167,6 @@ footer{
 	text-align: center;
 	margin: 10%;
 }
+body{
 
-
-
-
-
-
-
-
-
-
-
-@media (max-width: 800px){
-	.circle{
-		display: none;
-	}
-
-	.getstartedlink{
-		display: flex;
-		flex-direction: column;
-		
-	}
-
-	.top-section{
-		display: flex;
-		flex-direction: column;
-		width: 40%;
-	}
-}
+	margin: 10% 50% 
