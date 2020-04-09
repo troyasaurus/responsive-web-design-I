@@ -112,7 +112,7 @@ h1{
 	flex-flow: column-reverse;
 	justify-content: center;
 	text-align: center;
-	margin: 70px 0px;
+	margin: 40px 0px;
 
 
 }
@@ -176,45 +176,13 @@ footer{
 	.circle{
 		display: none;
 	}
-	.top-section{
+
+	.getstartedlink{
 		display: flex;
-		flex-flow: row wrap;
 		justify-content: center;
-		align-items: center;
-		height: 70%;
-		margin: 10px;
-		border-top: 1px solid gray;
-	}
+		
 	
-	
-	.middle-img{
-		display: flex;
-		align-content: center;
-		width: 100%;
-	}
-	
-	.more-info{
-		display:flex;
-		flex-flow: column wrap;
-		width: 30%;
-		margin: 10px;
-		}
-	.Features{
-		display:flex;
-		flex-direction: column;
-		width: 46%;
-		margin: 10px;
-		}
-	
-	.About{
-		display:flex;
-		flex-direction: column;
-		width: 46%;
-		margin: 10px;
-		}
-
-
-	}
+}
 
 
 
