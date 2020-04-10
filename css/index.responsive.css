@@ -1,0 +1,81 @@
+@media (max-width: 500px){
+
+	body{
+		display: flex;
+		flex-flow: row wrap;
+		margin-bottom: 200px;	
+		justify-content: center;
+	}
+	header {
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	
+	}
+	.getstartedlink{
+		width: auto;
+		
+	}
+	nav {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 20px;
+		width: 100%;
+	}
+	.circle{
+		display: none;
+		
+	}
+	a {
+		border-top: 1px solid gray;
+		width: 100%;
+		padding: 20px; 
+		margin-bottom: 2px;
+		justify-content: center;
+	}
+	.Features{
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: start;
+		align-content: start;
+		width: 100%;
+	}
+	.About{
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: start;
+		align-content: start;
+		width: 100%;
+
+	}
+	
+	.more-info{
+		display: flex;
+		flex-flow: column nowrap;
+		justify-content: start;
+		align-content: start;
+		margin: 1%;
+		width: 100%;
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
